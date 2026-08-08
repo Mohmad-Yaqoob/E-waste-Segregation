@@ -99,12 +99,6 @@ ResNet152 only if the hardest classes (e.g. Battery) are mission-critical.
 
 ## Team & contributions (internship, 2024)
 
-Three-member group project.
-
-- **[You]** — **data augmentation strategy** and **ResNet152 fine-tuning**
-  (two-phase freeze→fine-tune, BatchNorm handling).
-- Member 2 — custom CNN architecture.
-- Member 3 — InceptionV3 transfer learning.
 
 Comparison framework, evaluation, and interpretability were shared.
 
